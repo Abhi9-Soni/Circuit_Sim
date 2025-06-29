@@ -37,5 +37,5 @@ Result visualization
 
 ## Author
 Developed by Abhinav
-Github: 
+Github: https://github.com/Abhi9-Soni/Circuit_Sim/blob/main/Circuit_Simulator_py%20(1).ipynb
 
